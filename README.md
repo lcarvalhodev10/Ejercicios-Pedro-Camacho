@@ -4,5 +4,6 @@ Repositorio con ejercicios de Java enfocados en estructuras de datos (listas, co
 
 ## Estructura del proyecto
 
-* 'src' : código-fuente Java de los ejercicios
-* 'README.md': Archivos y carpetas ignoradas por git
+* `src` : código-fuente Java de los ejercicios
+* `README.md` : Este Archivo
+* `.gitignore` : Archivos y carpetas ignoradas por git
